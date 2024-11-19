@@ -10,7 +10,7 @@
     "bootstrap-daterangepicker": "^3.0.5",
     "d3": "^5.14.2",
     "dotenv": "^8.2.0",
-    "firebase": "^7.4.0",
+    "firebase": "^10.9.0",
     "jquery": "^3.4.1",
     "material-ui-datetime-range-picker": "^1.0.0",
     "prop-types": "^15.7.2",
